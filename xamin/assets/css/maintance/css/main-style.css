@@ -1,0 +1,18 @@
+.maintenance { text-align: center;padding:290px 0; }
+.maintenance h2 { font-size: 50px; font-family: 'Futura PT'; }
+.iq-coming h1 { font-size: 80px; font-family: 'Futura PT'; }
+.maintenance  p,.iq-coming p{color: #666666; font-weight: 500; font-size: 18px; font-family: 'Poppins', sans-serif;}
+.iq-coming{padding:143px 0;text-align: center;}
+.iq-coming ul{list-style: none;}
+.iq-coming .countdown { list-style: none; margin: 20px 0 30px 0; padding: 0; text-align: center; display: inline-block; }
+.iq-coming .countdown li { display: inline-block; margin: 0 20px;border: 1px solid rgba(0, 0, 0, 0.13);
+    width: 140px;
+    height: 150px;
+    padding: 14px; }
+.iq-coming .countdown li span { font-size: 50px; font-weight: 800; line-height: 80px; color: #020d1e; position: relative; }
+.iq-coming .countdown li.seperator { font-size: 50px; line-height: 40px; vertical-align: top; margin: 16px 0px; color: #020d1e; }
+.iq-coming .countdown li h6 { color: #020d1e; font-size: 20px; padding-right: 30px; }
+.iq-coming .countdown li p { font-size: 16px; font-weight: 600; line-height: 24px; color: #020d1e; }
+.iq-coming .countdown li span:after { position: absolute; right: -90px; top: 30px; content: ":"; font-size: 50px; color: #020d1e; line-height: 50px; }
+.iq-coming .countdown li:last-child  span:after { content: none; }
+
